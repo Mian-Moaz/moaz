@@ -1,0 +1,1 @@
+export const  weburl='https://www.gamicabusiness.com';
